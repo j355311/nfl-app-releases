@@ -1,5 +1,5 @@
 {
-  "version": "0.1.1",
-  "downloadUrl": "https://github.com/j355311/nfl-app-releases/releases/download/android-v0.1.1/NFL-App-Android.apk",
-  "releaseNotes": "Adds in-app Android update checking, downloading, and installation prompts."
+  "version": "0.1.2",
+  "downloadUrl": "https://github.com/j355311/nfl-app-releases/releases/download/android-v0.1.2/NFL-App-Android.apk",
+  "releaseNotes": "Automatically refreshes new episodes for linked Spotify podcast shows when the app opens."
 }
