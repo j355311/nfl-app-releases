@@ -1,0 +1,5 @@
+{
+  "version": "0.1.1",
+  "downloadUrl": "https://github.com/j355311/nfl-app-releases/releases/download/android-v0.1.1/NFL-App-Android.apk",
+  "releaseNotes": "Adds in-app Android update checking, downloading, and installation prompts."
+}
