@@ -1,5 +1,5 @@
 {
-  "version": "0.1.2",
-  "downloadUrl": "https://github.com/j355311/nfl-app-releases/releases/download/android-v0.1.2/NFL-App-Android.apk",
-  "releaseNotes": "Automatically refreshes new episodes for linked Spotify podcast shows when the app opens."
+  "version": "0.1.3",
+  "downloadUrl": "https://github.com/j355311/nfl-app-releases/releases/download/android-v0.1.3/NFL-App-Android.apk",
+  "releaseNotes": "Reduces Spotify API requests with per-show refresh timing, cached checks, and rate-limit backoff. Adds a manual episode refresh option."
 }
