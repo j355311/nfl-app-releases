@@ -1,5 +1,5 @@
 {
-  "version": "0.1.9",
-  "downloadUrl": "https://github.com/j355311/nfl-app-releases/releases/download/v0.1.9/NFL-App-Setup.exe",
-  "releaseNotes": "Refreshes Spotify authorization for playback, playlist synchronization, and podcast episode imports. Direct playback fallback included."
+  "version": "0.1.10",
+  "downloadUrl": "https://github.com/j355311/nfl-app-releases/releases/download/v0.1.10/NFL-App-Setup.exe",
+  "releaseNotes": "Keeps Spotify minimized while switching shows or playing podcast episodes. Uses the existing Spotify device in the background and starts Spotify minimized only when needed."
 }
