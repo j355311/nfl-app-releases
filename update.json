@@ -1,5 +1,5 @@
 {
-  "version": "0.1.6",
-  "downloadUrl": "https://github.com/j355311/nfl-app-releases/releases/download/v0.1.6/NFL-App-Setup.exe",
-  "releaseNotes": "Keeps Play latest working when Spotify tokens or playlist updates need to be refreshed."
+  "version": "0.1.7",
+  "downloadUrl": "https://github.com/j355311/nfl-app-releases/releases/download/v0.1.7/NFL-App-Setup.exe",
+  "releaseNotes": "Refreshes Spotify authorization for playback, playlist synchronization, and podcast episode imports."
 }
