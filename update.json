@@ -1,5 +1,5 @@
 {
-  "version": "0.1.10",
-  "downloadUrl": "https://github.com/j355311/nfl-app-releases/releases/download/v0.1.10/NFL-App-Setup.exe",
-  "releaseNotes": "Keeps Spotify minimized while switching shows or playing podcast episodes. Uses the existing Spotify device in the background and starts Spotify minimized only when needed."
+  "version": "0.1.11",
+  "downloadUrl": "https://github.com/j355311/nfl-app-releases/releases/download/v0.1.11/NFL-App-Setup.exe",
+  "releaseNotes": "Playback speed changes now happen while Spotify stays minimized and NFL App remains in front."
 }
