@@ -1,5 +1,5 @@
 {
-  "version": "0.1.13",
-  "downloadUrl": "https://github.com/j355311/nfl-app-releases/releases/download/v0.1.13/NFL.App.Windows.exe",
-  "releaseNotes": "Portable Windows update. Spotify playback controls keep NFL App in front."
+  "version": "0.1.14",
+  "downloadUrl": "https://github.com/j355311/nfl-app-releases/releases/download/v0.1.14/NFL.App.Windows.exe",
+  "releaseNotes": "Portable Windows update. Includes the current playback and browser improvements. No installer is included."
 }
