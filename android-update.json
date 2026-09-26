@@ -1,5 +1,5 @@
 {
-  "version": "0.1.6",
-  "downloadUrl": "https://github.com/j355311/nfl-app-releases/releases/download/v0.1.13/NFL.App.Android.apk",
-  "releaseNotes": "Android Spotify playback stays behind NFL App, and the launcher uses the NFL shield icon."
+  "version": "0.1.8",
+  "downloadUrl": "https://github.com/j355311/nfl-app-releases/releases/download/v0.1.14/NFL.App.Android.apk",
+  "releaseNotes": "ESPN NFL stats replaces Pro Football Reference. Android Spotify playback stays behind NFL App, and the launcher uses the NFL shield icon."
 }
