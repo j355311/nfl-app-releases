@@ -1,5 +1,5 @@
 {
-  "version": "0.1.11",
-  "downloadUrl": "https://github.com/j355311/nfl-app-releases/releases/download/v0.1.11/NFL-App-Setup.exe",
-  "releaseNotes": "Playback speed changes now happen while Spotify stays minimized and NFL App remains in front."
+  "version": "0.1.13",
+  "downloadUrl": "https://github.com/j355311/nfl-app-releases/releases/download/v0.1.13/NFL.App.Windows.exe",
+  "releaseNotes": "Portable Windows update. Spotify playback controls keep NFL App in front."
 }
