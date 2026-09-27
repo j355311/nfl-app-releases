@@ -1,5 +1,1 @@
-{
-  "version": "0.1.15",
-  "downloadUrl": "https://github.com/j355311/nfl-app-releases/releases/download/v0.1.15/NFL.App.Windows.exe",
-  "releaseNotes": "Portable Windows update. Includes the ESPN scoreboard links, browser improvements, and the NFL shield taskbar icon. No installer is included."
-}
+{"version":"0.1.16","downloadUrl":"https://github.com/j355311/nfl-app-releases/releases/download/v0.1.16/NFL.App.Windows.exe","releaseNotes":"Portable Windows update. Keeps NFL+ team-radio audio playing while Team Radio stays open. No Windows installer is included."}
