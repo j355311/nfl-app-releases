@@ -1,5 +1,5 @@
 {
-  "version": "0.1.12",
-  "downloadUrl": "https://github.com/j355311/nfl-app-releases/releases/download/v0.1.15/NFL.App.Android.apk",
-  "releaseNotes": "Fixes the Android Spotify playback-speed label so it stays synchronized with the selected speed. Includes the ESPN NFL stats source and keeps Spotify behind NFL App."
+  "version": "0.1.13",
+  "downloadUrl": "https://github.com/j355311/nfl-app-releases/releases/download/v0.1.15/NFL.App.Android-0.1.13.apk",
+  "releaseNotes": "Adds the current ESPN stats source, injury loading, official NFL+ app handoff, and Spotify playback controls."
 }
