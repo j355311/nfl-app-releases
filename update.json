@@ -1,5 +1,5 @@
 {
-  "version": "0.1.17",
-  "downloadUrl": "https://github.com/j355311/nfl-app-releases/releases/download/v0.1.17/NFL.App.Windows.exe",
-  "releaseNotes": "Portable Windows update. Removes the unreadable gray first-row highlight on the Spotrac Contracts player table and keeps the dark theme readable. No installer is included."
+  "version": "0.1.19",
+  "downloadUrl": "https://github.com/j355311/nfl-app-releases/releases/download/v0.1.19/NFL.App.Windows.exe",
+  "releaseNotes": "Portable Windows update. Keeps ESPN player videos inline with their native controls, removes the old app-injected ESPN/NFL+ video control strip, and includes the latest dark-mode/browser fixes. No installer is included."
 }
